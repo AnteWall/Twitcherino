@@ -3,7 +3,10 @@ Twitcherino
 
 Twitcherino is a GUI based on Livestreamer for Twitch.tv
 
-![Twitcherino](http://imgur.com/Te6KiGO)
+Preview:
+
+
+http://imgur.com/Te6KiGO
 
 
 Version
