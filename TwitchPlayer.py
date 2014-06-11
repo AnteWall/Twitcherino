@@ -68,35 +68,3 @@ class TwitchPlayer():
         print ("Closing player...")
         player.close()
 
-
-"""
-live = Livestreamer()
-url = "http://twitch.tv/twitch"
-streams = None
-
-try:
-    plugin = live.resolve_url(url)
-
-    streams = plugin.get_streams()
-
-    print streams
-
-    stream = stream_to_url(streams.get("medium"))
-    print stream
-except NoPluginError:
-    print("No plugin ca handle URL: {0}" ,url)
-except PluginError as err:
-    print("{0}" , err)
-
-if not streams:
-    print("No Streams Found")
-
-
-#####################
-# OPEN HTTP SERVER (VLC)
-#####################
-
-
-server = create_http_server()
-player = PlayerOutput(find_default_player() ,filename=stream_to_url(streams.get("medium")))
-   """
