@@ -6,13 +6,21 @@ Twitcherino is a GUI based on Livestreamer for Twitch.tv
 Preview:
 
 
-http://imgur.com/Te6KiGO
+http://imgur.com/Te6KiGO - (Version 0.1.0)
 
 
 Version
 ----
 
-Dev 0.1
+0.1.1
+
+Changelog
+-----------
+#### 0.1.1 
+
+* Large Code Cleanup and Organizing
+* Fixed some Grid and alignment issues
+* Added Channels Button
 
 TODO
 -----
