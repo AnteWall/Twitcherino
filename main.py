@@ -88,7 +88,7 @@ class GUI(QtGui.QDialog):
 
 def main():
     app = Qt.QApplication(sys.argv)
-    GUI()
+    g = GUI()
 
     sys.exit(app.exec_())
 
